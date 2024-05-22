@@ -1,1 +1,2 @@
 hello world from branch1, say bye
+hello world from branch2
